@@ -9,10 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@blocknote/core": "^0.20.0",
-    "prosemirror-view": "1.29.0",
-    "@blocknote/mantine": "^0.20.0",
-    "@blocknote/react": "^0.20.0",
+    "@blocknote/core": "latest",
+    "@blocknote/mantine": "latest",
+    "@blocknote/react": "latest",
     "@headlessui/react": "^2.2.0",
     "@radix-ui/react-checkbox": "^1.1.2",
     "@radix-ui/react-dialog": "^1.1.2",
@@ -34,6 +33,7 @@
     "lucide-react": "^0.456.0",
     "next": "15.0.3",
     "node-cron": "^3.0.3",
+    "prosemirror-view": "1.29.0",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
     "react-hot-toast": "^2.4.1",
