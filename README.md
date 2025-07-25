@@ -37,10 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # azure-blogathon
 
 #demo-credentials
-for user, you can login simply
-for judge, use:
+- for user, you can login simply
+- for judge, use:
     mayank9178+10@gmail.com
     password@123A
-for admin, use:
+- for admin, use:
     mayank9178+20@gmail.com
     password@123A
